@@ -27,6 +27,8 @@
   /></a>
 </p>
 
+references from "https://github.com/Neelfrost/nvim-config"
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Screenshots 📷](#screenshots-)
