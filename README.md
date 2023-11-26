@@ -422,7 +422,7 @@ nvim
 | <kbd>Ctrl t</kbd>         | Insert               | Open omni-func completion                          |
 | <kbd>Ctrl Backspace</kbd> | Insert               | Delete previous word                               |
 | <kbd>Ctrl Delete</kbd>    | Insert               | Delete next word                                   |
-| <kbd>Ctrl b</kbd>         | Normal               | Toggle nvim-tree                                   |
+| <kbd>\ Tab</kbd>          | Normal               | Toggle nvim-tree                                   |
 | <kbd>Ctrl f</kbd>         | Normal               | Format document                                    |
 | <kbd>Ctrl h(jkl)</kbd>    | Normal               | Move to window to the left (down, up, right)       |
 | <kbd>Ctrl s</kbd>         | Normal               | Save current file                                  |
@@ -457,7 +457,7 @@ nvim
 
 ## Todo ✔
 
-- [ ] Improve mappings table
-- [ ] Document snippets
-- [ ] Automatic install script
-- [ ] Create video to showcase snippets
+- [x] Improve mappings table
+- [x] Document snippets
+- [x] Automatic install script
+- [x] Create video to showcase snippets
