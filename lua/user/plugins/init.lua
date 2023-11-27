@@ -344,7 +344,7 @@ require("lazy").setup({
                 end,
             },
             "fhill2/telescope-ultisnips.nvim",
-            -- NOTE start edit
+            -- NOTE: start edit
 
         },
         config = function()

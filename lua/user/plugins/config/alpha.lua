@@ -63,13 +63,13 @@ local buttons = {
         set_button("2", "  Browse Sessions", "<cmd>SessionManager load_session<CR>"),
         set_button(
         "3",
-        "  Recent Files",
+        "󰤘  Recent Files",
         "<cmd>lua require('user.plugins.config.telescope.sources').frecency()<CR>"
         ),
-        set_button("4", "  Find Files", "<cmd>Telescope find_files<CR>"),
-        set_button("5", "  New File", "<cmd>enew<CR>"),
-        set_button("u", "  Update", "<cmd>Lazy sync<CR>"),
-        set_button("q", "  Quit", "<cmd>qa<CR>"),
+        set_button("4", "󰈞 Find Files", "<cmd>Telescope find_files<CR>"),
+        set_button("5", " New File", "<cmd>enew<CR>"),
+        set_button("u", "󰚰  Update", "<cmd>Lazy sync<CR>"),
+        set_button("q", "󰩈󰩈  Quit", "<cmd>qa<CR>"),
     },
     opts = {
         spacing = 1,

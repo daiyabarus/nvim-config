@@ -43,9 +43,9 @@ M.icons = {
     vim = "",
     padlock = "",
     git_branch = "",
-    paste = "",
-    wrap = "﬋",
-    mixed_indents = "",
+    paste = "",
+    wrap = "",
+    mixed_indents = "",
     terminal = "",
     circle = "",
     circle_plus = "",
@@ -53,7 +53,7 @@ M.icons = {
     circle_o = "⭘",
     search = "",
     total_lines = "",
-    path_sep = "",
+    path_sep = "󰴠",
 }
 
 M.mode_names = {
