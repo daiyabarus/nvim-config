@@ -2,29 +2,29 @@
 <p align="center">
   <b>Just another opinionated, visually appealing Neovim IDE.</b>
   <br />
-  <b>Configured for Windows, supports LaTeX, Python, Lua, C#, HTML, CSS, and Javascript.</b>
+  <b>Configured for Windows, Ubuntu 22.04., supports LaTeX, Python, Lua, C#, HTML, CSS, and Javascript.</b>
   <br />
   <br />
-  <a href="https://github.com/neovim/neovim">
-    <img
-      src="https://img.shields.io/badge/requires-neovim%200.8%2B-green?color=76946A&labelColor=16161D&style=for-the-badge&logo=neovim"
-    />
-  </a>
-  <a href="https://github.com/Neelfrost/dotfiles/blob/main/LICENSE"
-    ><img
-      alt="license"
-      src="https://img.shields.io/github/license/Neelfrost/dotfiles?labelColor=151515&color=A270BA&style=for-the-badge"
-  /></a>
-  <a href="https://github.com/Neelfrost/dotfiles/stargazers"
-    ><img
-      alt="stars"
-      src="https://img.shields.io/github/stars/Neelfrost/dotfiles?colorA=151515&colorB=6A9FB5&style=for-the-badge&logo=starship"
-  /></a>
-  <a href="https://github.com/Neelfrost/dotfiles/network/members"
-    ><img
-      alt="forks"
-      src="https://img.shields.io/github/forks/Neelfrost/dotfiles?colorA=151515&colorB=788C4C&style=for-the-badge&logo=github"
-  /></a>
+  <!-- <a href="https://github.com/neovim/neovim"> -->
+  <!--   <img -->
+  <!--     src="https://img.shields.io/badge/requires-neovim%200.8%2B-green?color=76946A&labelColor=16161D&style=for-the-badge&logo=neovim" -->
+  <!--   /> -->
+  <!-- </a> -->
+  <!-- <a href="https://github.com/Neelfrost/dotfiles/blob/main/LICENSE" -->
+  <!--   ><img -->
+  <!--     alt="license" -->
+  <!--     src="https://img.shields.io/github/license/Neelfrost/dotfiles?labelColor=151515&color=A270BA&style=for-the-badge" -->
+  <!-- /></a> -->
+  <!-- <a href="https://github.com/Neelfrost/dotfiles/stargazers" -->
+  <!--   ><img -->
+  <!--     alt="stars" -->
+  <!--     src="https://img.shields.io/github/stars/Neelfrost/dotfiles?colorA=151515&colorB=6A9FB5&style=for-the-badge&logo=starship" -->
+  <!-- /></a> -->
+  <!-- <a href="https://github.com/Neelfrost/dotfiles/network/members" -->
+  <!--   ><img -->
+  <!--     alt="forks" -->
+  <!--     src="https://img.shields.io/github/forks/Neelfrost/dotfiles?colorA=151515&colorB=788C4C&style=for-the-badge&logo=github" -->
+  <!-- /></a> -->
 </p>
 
 references from "https://github.com/Neelfrost/nvim-config"

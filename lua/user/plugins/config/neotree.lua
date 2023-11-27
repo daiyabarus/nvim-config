@@ -80,7 +80,7 @@ require("neo-tree").setup({
         icon = {
             folder_closed = "",
             folder_open = "",
-            folder_empty = "ﰊ",
+            folder_empty = "󰺝",
             default_icon = "*",
         },
         name = {

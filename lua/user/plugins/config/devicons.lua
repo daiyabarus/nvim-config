@@ -1,17 +1,17 @@
 require("nvim-web-devicons").setup({
     override = {
         tex = {
-            icon = "",
+            icon = "",
             color = "#008080",
             name = "tex",
         },
         cls = {
-            icon = "",
+            icon = "",
             color = "#008080",
             name = "cls",
         },
         sty = {
-            icon = "",
+            icon = "",
             color = "#008080",
             name = "sty",
         },
@@ -31,7 +31,7 @@ require("nvim-web-devicons").setup({
             name = "prettierrc",
         },
         ps1 = {
-            icon = "ﲵ",
+            icon = "󰨊",
             color = "#4478d2",
             name = "ps1",
         },
@@ -46,12 +46,12 @@ require("nvim-web-devicons").setup({
             name = "html",
         },
         js = {
-            icon = "",
+            icon = "",
             color = "#e5c61d",
             name = "js",
         },
         xml = {
-            icon = "",
+            icon = "󰗀",
             color = "#f1662b",
             name = "xml",
         },
