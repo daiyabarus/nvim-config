@@ -130,7 +130,7 @@ require("lazy").setup({
         event = "InsertEnter",
     },
 
-    -- ------------------------------ Features ------------------------------ --
+    -- ----------------------------- Features ------------------------------ --
     {
         "dstein64/vim-startuptime",
         config = function()

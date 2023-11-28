@@ -46,7 +46,7 @@ references from "https://github.com/Neelfrost/nvim-config"
 
 ## Screenshots 📷
 
-![start](https://raw.githubusercontent.com/Neelfrost/github-assets/main/dotfiles/start.png)
+![start]./screenshoot/2023-11-26_221321.jpg
 ![time](https://raw.githubusercontent.com/Neelfrost/github-assets/main/dotfiles/time.png)
 ![file explorer](https://raw.githubusercontent.com/Neelfrost/github-assets/main/dotfiles/explorer.png)
 ![file navigation](https://raw.githubusercontent.com/Neelfrost/github-assets/main/dotfiles/finder.png)

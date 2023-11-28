@@ -26,32 +26,30 @@ local sources = {
         },
     }),
     null_ls_sources.chktex,
-    Formatters
     null_ls.builtins.formatting.prettierd,
     null_ls.builtins.formatting.isort.with {
         extra_args = {
             "--fast",
             "--profile",
-            "black" }
+            "black"
         },
-
-
-
+    },
     null_ls.builtins.formatting.black.with {
         extra_args = {
-            "--fast", "--line-length", 80, "--experimental-string-processing"}
+            "--fast",
+            "--line-length",
+            "80",
+            "--experimental-string-processing"
         },
+    },
+    null_ls_sources.latexindent,
+    null_ls_sources.chktex,
+}
 
-        null_ls_sources.latexindent,
-
-
-        null_ls_sources.chktex,
-    }
-
-    null_ls.setup({
-        debounce = 500,
-        default_timeout = 10000,
-        diagnostics_format = "#{m} (#{s})",
-        sources = sources,
-        on_attach = utils.on_attach,
-    })
+null_ls.setup({
+    debounce = 500,
+    default_timeout = 10000,
+    diagnostics_format = "#{m} (#{s})",
+    sources = sources,
+    on_attach = utils.on_attach,
+})

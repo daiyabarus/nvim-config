@@ -29,7 +29,7 @@ end, s_opts)
 
 -- Open current file in notepad
 map("n", "<Leader><Leader>n", function()
-    launch_ext_prog("notepad++", vim.fn.shellescape(vim.fn.expand("%:p")))
+    launch_ext_prog("notepad", vim.fn.shellescape(vim.fn.expand("%:p")))
 end, s_opts)
 
 -- Open url at cursor in browser

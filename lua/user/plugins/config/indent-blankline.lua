@@ -1,35 +1,3 @@
--- return {
---   'lukas-reineke/indent-blankline.nvim',
---   enabled = true,
---   event = { 'BufReadPost', 'BufNewFile' },
---   config = function()
---     require('ibl').setup({
---       indent = { char = '▏' },
---       scope = {
---         show_start = false,
---         show_end = false,
---       },
---       exclude = {
---         filetypes = {
---           'help',
---           'alpha',
---           'dashboard',
---           '*oil*',
---           'neo-tree',
---           'Trouble',
---           'lazy',
---           'mason',
---           'notify',
---           'toggleterm',
---           'lazyterm',
---           'asm',
---         },
---       },
---     })
---   end,
---   main = 'ibl',
--- }
-
 local indent_blankline_setup, indent_blankline = pcall(require, "ibl")
 if not indent_blankline_setup then
     return
