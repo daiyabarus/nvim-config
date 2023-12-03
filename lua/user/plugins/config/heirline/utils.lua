@@ -53,7 +53,7 @@ M.icons = {
     circle_o = "⭘",
     search = "",
     total_lines = "",
-    path_sep = "󰴠",
+    path_sep = "/",
 }
 
 M.mode_names = {
