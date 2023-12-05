@@ -17,7 +17,7 @@ local sources = {
     }),
     -- null_ls.builtins.formatting.isort,
     -- null_ls_sources.black,
-    null_ls_sources.latexindent,
+
     -- Diagnostics
     null_ls.builtins.diagnostics.flake8.with({
         extra_args = {
@@ -25,8 +25,8 @@ local sources = {
             vim.fn.expand("~/.flake8"),
         },
     }),
-    null_ls_sources.chktex,
-    null_ls.builtins.formatting.prettierd,
+
+
     null_ls.builtins.formatting.isort.with {
         extra_args = {
             "--fast",
